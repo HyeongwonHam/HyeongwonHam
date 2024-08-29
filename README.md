@@ -17,4 +17,5 @@
 
 > SAP Career Path '개발언어(ABAP)' (2024.07~2024.08)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={hahywo1214})](https://solved.ac/{hahywo1214})
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={hahywo1214})](https://solved.ac/{hahywo1214})
