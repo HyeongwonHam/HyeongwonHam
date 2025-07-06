@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=EEE8AA&)
 
 # _Pyxisalp_
->ABAP 개발자로 구직 중입니다.
+> 반갑습니다.
 
 ## _Stack_
 > Languages
