@@ -1,12 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=EEE8AA&)
 
-# _Pyxisalp_
-> 반갑습니다.
-
 ## _Stack_
 > Languages
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![ABAP](https://img.shields.io/badge/ABAP-0FAAFF?style=for-the-badge&logo=SAP&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 > Frameworks
 
@@ -14,8 +11,6 @@
 
 ## _Activities_
 > AI 엔지니어 기초 다지기 (2024.01~2024.02)
-
-> SAP Career Path '개발언어(ABAP)' (2024.07~2024.08)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hahywo1214)](https://solved.ac/hahywo1214)
